@@ -37,5 +37,5 @@ Olist, Brazil's largest e-commerce marketplace, needed visibility into where cus
 4. Run the 15 queries to reproduce the analysis
 
 ## 👤 Author
-**Karan Garje**
+**Kiran Garje**
 [GitHub](https://github.com/karangarje48) · [LinkedIn](https://linkedin.com/in/kirangarje)
